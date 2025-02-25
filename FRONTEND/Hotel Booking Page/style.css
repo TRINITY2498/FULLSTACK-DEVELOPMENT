@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-section {
+    background-color: #000000e6;
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    margin: 15px;
+    padding: 5px;
+}
+
+.main-heading {
+    font-family: Bree serif;
+    color: #ffffff;
+    font-size: 25px;
+    padding:5px;
+    margin: 5px;
+}
+
+.para {
+    font-family: Roboto;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 2px;
+    margin: 5px;
+}
+
+.sub-heading {
+    font-family: Roboto;
+    color: #ffffff;
+    font-size: 20px;
+    margin: 5px;
+    padding: 12px;
+}
+.bt{
+    margin: 15px;
+    border-radius: 10px;
+    width: 120px;
+    padding: 7px;
+    font-family: Roboto;
+    border-width: 0px;
+    background-color: #ffffff;
+}

@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png');
+    background-size: cover;
+    height: 150vh;
+}
+
+.top-card-section {
+    padding: 20px;
+}
+
+.top-card-heading {
+    font-family: Roboto;
+    color: white;
+}
+.top-card-description{
+    margin: 5px;
+    padding: 10px;
+}
+.bt {
+    font-family: Roboto;
+    color: #ff8348;
+    background-color: white;
+    border-radius: 12px;
+    border-width: 0px;
+    margin: 5px;
+    padding: 8px;
+}
+
+.top-card-para {
+    font-family: Roboto;
+    color: white;
+}
+.movies-images{
+    margin: 3px;
+    padding: 3px;
+}
+.image1{
+    margin: 3px;
+    padding: 3px;
+}
+.image2{
+    margin: 3px;
+    padding: 3px;
+}
+.image3{
+    margin: 3px;
+    padding: 3px;
+}
+.Movies-heading{
+    font-family: Roboto;
+    color: white;
+    margin: 5px;
+    padding: 8px;
+}

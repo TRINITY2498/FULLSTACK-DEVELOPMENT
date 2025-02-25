@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.carsel-text-card-container {
+    margin: 10px;
+    padding: 3px;
+}
+
+.carsel-heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    color: #323f4b;
+    margin: 4px;
+    padding: 5px;
+}
+
+.carsel-para {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: #9aa5b1;
+    margin: 5px;
+    padding: 5px;
+}
+
+.m-p {
+    margin: 5px;
+}
+
+.image1 {
+    margin: 3px;
+    padding: 2px;
+}
+
+.image2 {
+    margin: 3px;
+    padding: 2px;
+}
+
+.image3 {
+    margin: 3px;
+    padding: 2px;
+}
+
+.more-pic-heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    color: #323f4b;
+    margin: 4px;
+    padding: 5px;
+}
+
+.videos-heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    color: #323f4b;
+    margin: 4px;
+    padding: 5px;
+}
+
+.goa-video-container {
+    width: 96px;
+    height: 96px;
+    border-radius: 8px;
+    margin: 4px;
+}

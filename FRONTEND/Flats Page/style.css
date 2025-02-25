@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.bottom-card {
+    background-color: #ffffff;
+    background-size: cover;
+    height: 40vh;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.bottom-card-heading {
+    font-family: Bree Serif;
+    color: #f19116;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.bottom-card-para {
+    font-family: Bree Serif;
+    color: #7b8794;
+    text-align: center;
+}
+
+
+.bt1 {
+    font-family: Bree Serif;
+    background-color: #f19116;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+
+.container {
+    background-color: #222222;
+    background-size: cover;
+    height: 130vh;
+}
+.container2{
+    background-color: #222222;
+    background-size: cover;
+    height: 100vh;
+}
+.flat-list-heading {
+    font-family: Bree Serif;
+    color: #f19116;
+    padding-top: 30px;
+}
+.card-color{
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+.flat-list-images{
+    height: 180px;
+    width: 90px;
+    border-radius: 8px;
+}
+.flat-list-images-heading{
+    font-family: Bree Serif;
+    font-weight: bold;
+    color: #0f0e46;
+    padding-left: 15px;
+}
+.flat-list-images-para{
+     font-family: Bree Serif;
+     font-size: 14px;
+     color: #6c6b70;
+     padding-left: 15px;
+}
+.space-container{
+    margin-top: 15px;
+}
+.bt2{
+    font-family: Bree Serif;
+    background-color: #f19116;
+    color: #ffffff;
+    margin-top: 20px;
+    width: 100px;
+}
+
+.flat-price{
+    font-family: Bree Serif;
+    color: #f19116;
+    padding-top: 15px;
+    margin-left: 20px;
+}
+.flat-detail-image{
+    height: 200px;
+    width: 338px;
+    margin-left: 0px;
+}
+.location-image{
+    height: 20px;
+    margin-left: 20px;
+}
+.flat-address{
+    font-family: Bree Serif;
+    color: #ffffff;
+    padding-left: 10px;
+}
+.flat-description-heading{
+    font-family: Bree Serif;
+    color: #f19116;
+    margin-left: 20px;
+}
+.flat-description{
+    font-family: Bree Serif;
+    color: #ffffff;
+    font-size: 14px;
+    margin-left: 20px;
+}
+.flat-view-buttons{
+    font-family: Bree Serif;
+    background-color: #f19116;
+    color: #ffffff;
+    width: 100px;
+    margin: 5px;
+    margin-top: 15px;
+}

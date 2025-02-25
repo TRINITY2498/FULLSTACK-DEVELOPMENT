@@ -1,4 +1,4 @@
-# Food Order Page
+# News Page
 
 ## Description
 Built News Page by applying the concepts like HTML, CSS.

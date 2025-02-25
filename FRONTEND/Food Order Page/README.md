@@ -1,7 +1,7 @@
 # Food Order Page
 
 ## Description
-Built Coding Cover Page by applying the concepts like HTML, CSS.
+Built Food Order Page by applying the concepts like HTML, CSS.
 
 ## Screenshot
 ![Project Screenshot](screenshot.png)

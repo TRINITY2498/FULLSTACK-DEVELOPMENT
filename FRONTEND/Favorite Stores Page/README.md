@@ -10,7 +10,6 @@ Built Favourite Store Page by applying the concepts like HTML, CSS.
 - HTML
 - CSS
 - BOOTSTRAP
-- UI KIT
 
 ## How to Run
 1. Open `index.html` in a browser.

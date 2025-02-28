@@ -10,6 +10,7 @@ Learning NAVBAR by applying the concepts like HTML, CSS.
 - HTML
 - CSS
 - BOOTSTRAP
+- BOOTSTRAP Navbar
 
 
 ## How to Run

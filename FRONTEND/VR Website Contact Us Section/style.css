@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #222b36;
+    height: 100vh;
+}
+
+.VR-heading {
+    font-family: Roboto;
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.VR-image {
+    width: 270px;
+}
+
+.custom-button {
+    font-family: Roboto;
+    color: white;
+    background-color: transparent;
+    border-radius: 8px;
+    width: 120px;
+    height: 40px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 1px;
+}
